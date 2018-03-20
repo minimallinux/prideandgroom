@@ -435,7 +435,7 @@ color: lightgray;
     text-decoration: none;
     color: #444;
     padding: 30px 30px 60px 30px;
-    border: 1px solid #3F51B5;
+    border: 1px solid #e0e0e0;
 }
 .tm-panel-link:hover {
     text-decoration: none;
