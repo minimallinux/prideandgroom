@@ -12,26 +12,6 @@ display: none;
 .uk-container.top {
     margin-top: 50px;
 }
-.cover1 {
-    background: #1e1e1e url("../images/bg-1.jpg") no-repeat center center fixed;
-    background-size: cover;
-    height: 62em;   
-    width: 100%;
-}
-.cover1 .tm-section1 h1 {
-    text-transform: uppercase;
-    color: #000 !important;
-}
-.cover1 .tm-section1 p {
-    color: rgba(0, 0, 0, 0.9);
-}
-.cover1 .intro {
-    margin-top: 2em;
-}
-.cover1 .intro h1,
-.cover1 .intro p {
-    padding: 20px;
-}
 .features1 #features .uk-width-medium-1-4 {
     padding: 20px;
 }
@@ -39,28 +19,6 @@ display: none;
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 500;
-}
-.features1 .notification h2 a {
-color: #fff;
-}
-.features1 .notification {
-    background: #37474F;
-    height: 60px;
-    margin: 10px 0px;
-    border-radius: 5px;
-}
-.features1 .notification h2 {
-    color: #fff!important;
-    padding-top: 14px;
-    text-transform: none;
-    font-size: 22px;
-}
-.features1 .tools img {
-    border: solid 1px #dadada;
-    margin-top: 10px;
-}
-.features1 .clients img {
-    border: solid 1px #dadada;
 }
 .uk-text-medium {
     font-size: 16px;
@@ -79,7 +37,7 @@ color: #fff;
     color: rgba(0, 0, 0, 0.9);
 }
 .cover2 .intro {
-    margin-top: 2em;
+    margin-top: 18em;
 }
 .cover2 .intro p,
 .cover1 .intro h1 {
@@ -416,14 +374,14 @@ color: lightgray;
     position: relative;
     display: inline-block;
     padding: 15px 25px;
-    background-color: #1A237E;
+    background-color: #222;
     /*for compatibility with older browsers*/
-  background-image: -webkit-linear-gradient(#1A237E,  #5C6BC0);
-    background-image: -moz-linear-gradient(#1A237E, #5C6BC0);
-    background-image: -o-linear-gradient(#1A237E, #5C6BC0);
-    background-image: linear-gradient(#1A237E,  #5C6BC0);
+  background-image: -webkit-linear-gradient(#222, #444);
+    background-image: -moz-linear-gradient(#222, #444);
+    background-image: -o-linear-gradient(#222, #444);
+    background-image: linear-gradient(#222, #444);
     border: 1px solid #1A237E;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5), inset 0 0 1px rgba(255, 255, 255, 0.6);
+     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5), inset 0 0 1px rgba(255, 255, 255, 0.6);
     text-shadow: 0 -1px 0 black, 0 1px 0 rgba(255, 255, 255, 0.2);
     color: #f8f8f8;
     text-transform: uppercase;
@@ -451,12 +409,12 @@ color: lightgray;
 .tm-button-custom:hover,
 .tm-button-custom:focus,
 .tm-button-custom:active {
-    background-color:  #444;
+    background-color: #1A237E;
     /*for compatibility with older browsers*/
-    background-image: -webkit-linear-gradient(#000, #444);
-    background-image: -moz-linear-gradient(#000, #444);
-    background-image: -o-linear-gradient(#000, #444);
-    background-image: linear-gradient(#000,#444);
+    background-image: -webkit-linear-gradient(#1A237E,#5C6BC0);
+    background-image: -moz-linear-gradient(#1A237E,#5C6BC0);
+    background-image: -o-linear-gradient(#1A237E,#5C6BC0);
+    background-image: linear-gradient(#1A237E,#5C6BC0);
     -webkit-transition: background-color .15s ease-in-out;
     -o-transition: background-color .15s ease-in-out;
     -moz-transition: background-color .15s ease-in-out;
