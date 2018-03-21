@@ -376,10 +376,10 @@ color: lightgray;
     padding: 15px 25px;
     background-color: #1A237E;
     /*for compatibility with older browsers*/
-  background-image: -webkit-linear-gradient(#1A237E,#5C6BC0);
-    background-image: -moz-linear-gradient(#1A237E,#5C6BC0);
-    background-image: -o-linear-gradient(#1A237E,#5C6BC0);
-    background-image: linear-gradient(#1A237E,#5C6BC0);
+  background-image: -webkit-linear-gradient(#1A237E,#3949AB);
+    background-image: -moz-linear-gradient(#1A237E,#3949AB);
+    background-image: -o-linear-gradient(#1A237E,#3949AB);
+    background-image: linear-gradient(#1A237E,#3949AB);
     border: 1px solid #1A237E;
      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5), inset 0 0 1px rgba(255, 255, 255, 0.6);
     text-shadow: 0 -1px 0 black, 0 1px 0 rgba(255, 255, 255, 0.2);
