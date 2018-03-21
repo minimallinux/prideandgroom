@@ -451,7 +451,7 @@ color: lightgray;
     right: -1px;
     left: -1px;
     bottom: -1px;
-    background: #3F51B5;
+    background: #5C6BC0;
 }
 
 .tm-panel-link:hover:after {
@@ -473,9 +473,9 @@ color: lightgray;
     position: relative;
     width: 90px;
     margin: -60px auto 0 auto;
-    border: 0.15rem solid  #3F51B5;
+    border: 0.15rem solid  #5C6BC0;
     border-radius: 50px;
-    background: #3F51B5;
+    background: #5C6BC0;
     line-height: 90px;
     color: #fff;
 }
