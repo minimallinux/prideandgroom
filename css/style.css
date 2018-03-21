@@ -374,12 +374,12 @@ color: lightgray;
     position: relative;
     display: inline-block;
     padding: 15px 25px;
-    background-color: #222;
+    background-color: #1A237E;
     /*for compatibility with older browsers*/
-  background-image: -webkit-linear-gradient(#222, #444);
-    background-image: -moz-linear-gradient(#222, #444);
-    background-image: -o-linear-gradient(#222, #444);
-    background-image: linear-gradient(#222, #444);
+  background-image: -webkit-linear-gradient(#1A237E,#5C6BC0);
+    background-image: -moz-linear-gradient(#1A237E,#5C6BC0);
+    background-image: -o-linear-gradient(#1A237E,#5C6BC0);
+    background-image: linear-gradient(#1A237E,#5C6BC0);
     border: 1px solid #1A237E;
      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.5), inset 0 0 1px rgba(255, 255, 255, 0.6);
     text-shadow: 0 -1px 0 black, 0 1px 0 rgba(255, 255, 255, 0.2);
@@ -409,12 +409,12 @@ color: lightgray;
 .tm-button-custom:hover,
 .tm-button-custom:focus,
 .tm-button-custom:active {
-    background-color: #1A237E;
+    background-color: #444444;
     /*for compatibility with older browsers*/
-    background-image: -webkit-linear-gradient(#1A237E,#5C6BC0);
-    background-image: -moz-linear-gradient(#1A237E,#5C6BC0);
-    background-image: -o-linear-gradient(#1A237E,#5C6BC0);
-    background-image: linear-gradient(#1A237E,#5C6BC0);
+    background-image: -webkit-linear-gradient(#444444,#666666);
+    background-image: -moz-linear-gradient(#444444,#666666);
+    background-image: -o-linear-gradient(#444444,#666666);
+    background-image: linear-gradient(#444444,#666666);
     -webkit-transition: background-color .15s ease-in-out;
     -o-transition: background-color .15s ease-in-out;
     -moz-transition: background-color .15s ease-in-out;
